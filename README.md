@@ -14,7 +14,7 @@ For more about OneOps see <http://www.oneops.com>.
 Pre-requisites
 --------------
 
-The version of Ruby recommended to run the OneOps CLI is [RVM](http://rvm.io) with latest ruby `v1.9.3` installed from there.
+The version of Ruby recommended to run the OneOps CLI is [RVM](http://rvm.io) with latest ruby `v2.1.1` installed from there.
 
 
 Install
