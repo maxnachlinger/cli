@@ -1,5 +1,6 @@
-require 'rubygems'
+require 'active_support'
 require 'active_support/core_ext'
+require 'rubygems'
 require 'rest_client'
 
 ROOT = File.expand_path(File.dirname(__FILE__))

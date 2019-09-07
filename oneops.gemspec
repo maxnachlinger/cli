@@ -16,11 +16,11 @@ Gem::Specification.new do |s|
   s.platform         = Gem::Platform::RUBY
   s.extra_rdoc_files = %w(README.md)
 
-  s.add_dependency 'activesupport', '4.1.10'
-  s.add_dependency 'rest-client', '~> 1.6'
-  s.add_dependency 'netrc', '~> 0.7'
-  s.add_dependency 'thor', '~> 0.19'
-  s.add_dependency 'launchy', '~> 2.4'
+  s.add_dependency 'activesupport', '5.1.4'
+  s.add_dependency 'rest-client', '2.0.2'
+  s.add_dependency 'netrc', '0.11.0'
+  s.add_dependency 'thor', '0.20.0'
+  s.add_dependency 'launchy', '2.4.3'
 
   s.bindir       = 'bin'
   s.require_path = 'lib'

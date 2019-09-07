@@ -1,5 +1,6 @@
-require 'base64'
+require 'active_support'
 require 'active_support/hash_with_indifferent_access'
+require 'base64'
 
 module OO::Api
   class OO::Api::Base

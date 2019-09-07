@@ -1,6 +1,9 @@
 OneOps CLI
 ==========
 
+Fork of the unmaintained https://github.com/oneops/cli .
+
+
 The OneOps CLI is used to manage OneOps assemblies from the command line. It is implemented as a ruby gem which uses
 the [OneOps Restful API](http://oneops.github.io/developer/references/#oneops-api-documentation). Follow the steps below
 to install the CLI and login. Enter your API token as username and set the password to 'X'.  You can retrieve your API
